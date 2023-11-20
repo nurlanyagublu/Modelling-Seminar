@@ -1,4 +1,6 @@
-# This repository serves as a comprehensive collection of projects completed during the Modeling Seminar at Budapest University of Technology and Economics. Through this platform, I explore various modeling techniques, algorithms, and applications within the realm of computer science.
+## Description
+
+This repository serves as a comprehensive collection of projects completed during the Modeling Seminar at the Budapest University of Technology and Economics. Through this platform, I explore various modeling techniques, algorithms, and applications within the realm of computer science.
 
 ## Key Focus Areas:
 
